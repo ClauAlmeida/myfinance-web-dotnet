@@ -1,4 +1,4 @@
-# myfinance-web-netcore
+# myfinance-web-dotnet
 
 # Sobre o MyFinance Web
 O MyFinance Web é uma plataforma inovadora projetada para proporcionar uma gestão financeira eficiente de receitas e despesas. Com um foco central em facilitar o controle de entradas e saídas, esta aplicação oferece uma experiência intuitiva e prática para organizar suas finanças pessoais de maneira eficaz.
